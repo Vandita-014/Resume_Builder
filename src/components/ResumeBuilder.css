@@ -1,0 +1,109 @@
+.resume-builder {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .header {
+    padding: 40px;
+    background-color: #f0f4f8;
+  }
+  
+  .header h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .highlight {
+    color: #0073e6;
+  }
+  
+  .subheader {
+    font-size: 20px;
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .description {
+    font-size: 16px;
+    margin: 10px 0;
+    color: #777;
+  }
+  
+  .cta-buttons {
+    margin-top: 20px;
+  }
+  
+  .cta-button {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #ffffff;
+    border: '1px solid grey'
+  }
+  
+  .primary {
+    background-color: #0073e6;
+    color: #fff;
+  }
+  
+  .resume-preview {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: #fff;
+  }
+  
+  .resume-image {
+    max-width: 300px;
+    margin-right: 20px;
+  }
+  
+  .ai-writing-help {
+    text-align: left;
+    font-size: 18px;
+    color: #333;
+    display: flex;
+    align-items: center;
+  }
+  
+  .ai-writing-help img {
+    width: 150px;
+    margin-right: 10px;
+  }
+  
+  .footer {
+    background-color: #f0f4f8;
+    padding: 30px;
+  }
+  
+  .trusted-logos {
+    text-align: center;
+  }
+  .trusted-logos img{
+    width: 50px;
+    height: 20px;
+  }
+  
+  .logo-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+  }
+  
+  .logo-row img {
+    width: 100px;
+    height: 60px;
+    margin-right: 20px;
+    
+
+  }
+  
+  .trusted-logos p {
+    font-size: 18px;
+    color: #777;
+  }
+  
